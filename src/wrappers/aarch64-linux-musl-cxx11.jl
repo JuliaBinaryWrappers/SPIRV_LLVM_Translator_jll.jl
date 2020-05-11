@@ -49,7 +49,7 @@ libLLVMSPIRV_path = ""
 libLLVMSPIRV_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libLLVMSPIRV = "libLLVMSPIRVLib.so.8jl"
+const libLLVMSPIRV = "libLLVMSPIRVLib.so.9jl"
 
 
 """
