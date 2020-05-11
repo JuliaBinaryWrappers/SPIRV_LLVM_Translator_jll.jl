@@ -5,6 +5,7 @@ export llvm_spirv, libLLVMSPIRV
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `llvm_spirv`
 const llvm_spirv_splitpath = ["bin", "llvm-spirv"]
@@ -24,8 +25,9 @@ function llvm_spirv(f::Function; adjust_PATH::Bool = true, adjust_LIBPATH::Bool 
         end
     end
     if adjust_LIBPATH
-        if !isempty(get(ENV, LIBPATH_env, ""))
-            env_mapping[LIBPATH_env] = string(LIBPATH, ':', ENV[LIBPATH_env])
+        LIBPATH_base = get(ENV, LIBPATH_env, expanduser(LIBPATH_default))
+        if !isempty(LIBPATH_base)
+            env_mapping[LIBPATH_env] = string(LIBPATH, ':', LIBPATH_base)
         else
             env_mapping[LIBPATH_env] = LIBPATH
         end
@@ -47,7 +49,7 @@ libLLVMSPIRV_path = ""
 libLLVMSPIRV_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libLLVMSPIRV = "libLLVMSPIRVLib.so.9jl"
+const libLLVMSPIRV = "libLLVMSPIRVLib.so.10jl"
 
 
 """
