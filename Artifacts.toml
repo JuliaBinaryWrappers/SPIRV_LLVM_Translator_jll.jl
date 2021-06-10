@@ -1,236 +1,236 @@
 [[SPIRV_LLVM_Translator]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9bb9b98b789ada017951270b19662ac502541d2e"
+git-tree-sha1 = "e92ac4868cb0f2cbb272959eb547c5141533cdfc"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "3e6e04ae74b0c62efbdac68e11601e0fda5fe286caf610923be0f75e99a7be12"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3f120aed64e42ca07e1038ca9d64ffef1c4cd5bdd64920c01e0f1a565ccb2cb8"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a06fd599f8bebbfe6d292fa6ad510cb0c6f9e04"
+git-tree-sha1 = "afa2a87f6dc6592574ab00051883065f415e9c78"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "8f785fc63d4ea8c5ef057ca219fec4106b65fe8443954ae05d3f4627c1dc3512"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "afbef98f486ec59d4bb4b36e86b050ece9441b52c6fefd8514e9baed7dd0ca07"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5195f75f7e3cd6eb42907da6ab92ba32f0e5f30a"
+git-tree-sha1 = "aceec0f8e7d4a35a15335263018351b5f013a486"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "3025ce3f2bb64801f573711d9df0f4e9bb130f1774200580148be2b3c34eff04"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "3eaa044307a03a20128e490df47178e9e6b0e6e2256ef827fbc70687cb8d2693"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d267cd3b47197f853bbfdadc9ad5bf4b5256ad35"
+git-tree-sha1 = "469a8b09c9a990a54ba8a212284487b4d2ce754d"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "04d501641d10b2730b552f6468e940fe43af6a47d21baff428fb75cb8adb2be0"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "52d7c19f6fb029d787fcb401329f2ed17abc3f202660dd4f5bdb0f6c5a6932c7"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c374cf05386d8a2775afc618a680d9a5a3a9b68a"
+git-tree-sha1 = "2b54a7221dca9639bb95df617a04388d1b5189d0"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "efdc1d3a127e7e2fcb5a5b870ea1a0d22164e71b847a99d91d84bd47269a2cb0"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f92c787947a434d9cc78cf0a259b0d758b8264b47aa9639344ba3b73aefbd4d7"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c942062db62d9e55d68f1765163fc6541c99a9d0"
+git-tree-sha1 = "a8e6b2e89e25548355f59a9ae088afba2bed21de"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "d380029769a624ef6a67e2e3625a34f3ee29ddafcba620147bf1b665c5c4b2c9"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "6962d6df4e71605fbbeb85f2eeb55eb5227c9436556b4be7fbf619a787883d67"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb2440dad76a632f864fe3c740b2cf8f37829bb5"
+git-tree-sha1 = "f4c9439186fe0395abbe5dfeac848f07be00d895"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "59372ab032ee44012885c9412049afce2e0a401bffb20b1f11e86c1b73e49280"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "e45d525184213efda13b4b14ab45e9e1b5f177476e2f8a7cfd1e6771494236dd"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a4a149dd482329dbcfe8d0cbc7f473107295875"
+git-tree-sha1 = "d9ad6555a962483a891b8fd05876ff8a1898e97e"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "5d028a0b5d3a0b60746a045d8f71d6d3dd94a50a95e012ea67225ea4a2b14148"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0ff835498c251421ef995d265855750187c07b7016deddeb95b3bc1b541ed7d9"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "14d218aa38bea536c20dc14b1f8e7f5ecb899945"
+git-tree-sha1 = "fdb6f5a39f791735b645cdcdbe38bf026a9085fe"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "8d07f9017263c235a1c87643c71a75743ab1ae93ab5a1bce06e105fd13cf035d"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "8dd15315188c5dc7ee6c97b0066507c9762beac6abe21bb1e132041ab2cb015e"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8b0f0d60aed23a488d197331b40d540c24fb965e"
+git-tree-sha1 = "1ec0dbb1302acc3eefc7c3065e50d8c6e34641f9"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "f168ba74e5cebdccb0fd66966d59a1b2802b457e26d7374521880e1265b86126"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "7711a8fb9f2470ba01369b7383b41a834080a9d07e091ac20a71b8ab0bc38768"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa071a9df1ad0e6d54b414d473b17f4d28a97539"
+git-tree-sha1 = "6364965d5be6fdc2879b3f22433b8932e37f6f05"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "dc14a8c424baa6a5a8e8df8b6cabe61557d1a67781db8980b33775d20f9f3695"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "b943f3c75db38e3da5a68964c6361e153a6131f6a294a97271d511f797126b89"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-linux-musl-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "02cd414848c110c6595bbf3ea7c83f2ea660eb50"
+git-tree-sha1 = "f69ad61222cd14d7e82f555f9de9d680227a9a38"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "496a4deecdeeae1e70f60f56ab73e1f79f6b49365ec8fcabe7ed9972c54a5e43"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "6cd4ce60672ea448829aeeaddf3cd87911a6ea3faf0df4ed1ab2170458a7a547"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-linux-musl-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "15b43ec140c072af0e79b26e006c75f251ed34ca"
+git-tree-sha1 = "5423f1c5ef11a8a92ede5fafed23d152aee32c3a"
 os = "windows"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "a002a4c52d4f27aa0eed016fb074c5a96bacb9fb8d9679ffcc0463c849e9c15a"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b1194b6f612f35f896903d537261d7b4b1d8f2c9673bec7828fa7ad1622831ad"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de911a739df4d520bc5db7c30679ea96eb97c489"
+git-tree-sha1 = "1c671ff55b787f7d6eb0070c828a8b2cce2e1cba"
 os = "windows"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "af45807602ab90a5879140963a5c755bf0605f5d956616bd4e6dfb683362b946"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "ba3780e242ace1b81cd536aa885e73052be6aa7291caf49cd8f32c6604d12608"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "713421f590a265dd5a24d68f6cfb36f1a56bb872"
+git-tree-sha1 = "dca1caf6a61519471b3a95ca21cc00013f29fcd1"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "b26e29d9d26e29fb461e800920d20b7b1bf7d46bb601d6e334d2a3ccbb143eb9"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "3cb989fb0d8e24e585494296637f4b3c17d2b6cb6f861db8193a594609bdb2f1"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6c69f9fe4edabb6bc2100fa8337728522777d5a"
+git-tree-sha1 = "fe7d22c9c725744fe2274bfe8fa7d22111a4245d"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "9dc46ff7342af61794ffdc2e9ab3e3e62d38d5d92e284ecb0f9413550e76d692"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "49e8a190797aa1532ee85a70fc0f45ca63dee1fb7082234042317516a4930c1a"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
-git-tree-sha1 = "083b48f337691e989aab11b90200e0ab8a35af0b"
+git-tree-sha1 = "761502da4628587a8ec9eaf22de6b49b022b8c3f"
 os = "macos"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "de15d0ce3995bba20e6addb2f6b22ce87313090aaa58c0a7851b9434dbacabbe"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "594bf584a6b57f8c17585c94116e7bec3970a7dff79d4bb07d8fd07303ff78aa"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-apple-darwin.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "197cf1147f26020f0a127441f349af5e89fdab7d"
+git-tree-sha1 = "c95267bd54842cacc2757b1f123eeb09f7e582cc"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "8c662f7f541afd1429b7e3a0a822f94b2c6e38688fd0b5c19b10c6991ee03edb"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c40f5c67a24a86330d09d28c815353fbf150c00acbc883ffd63e05314e794819"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bb3adb0323922259f94ab722333827253f19168"
+git-tree-sha1 = "cfd6324ea4c32d37a1b0106e838c020ab6fc524b"
 libc = "glibc"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "45e378f242162ae0731c6bd9ecc7b37944937de10030f33dfb63a88318ee5a66"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5e896f8ddb04d9bbfb44d67fc2196e8be81e8440f53fd6705db613ab289b6baa"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "781f6f4e42dbaada2da09e2bf5b95b0b9e60874a"
+git-tree-sha1 = "74f38f5f30215af9b9ed9f5108a6b479b245eb04"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "e827e420b12957a52887edffd42b4afea07f7ab296b98445219299b7ad6cf714"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "360c6aeb45c900a9e74b5e88c8e0ecd29eeadc72dfe77a711f146fb2410fd786"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c1baf188b3eb56207f6b5171ac155aad0a8dc6c"
+git-tree-sha1 = "22b83026d27f22964dfea99fa7c396316d76c78a"
 libc = "musl"
 os = "linux"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "4aa17fefdc663c51200633f8aea0217ec2df3fafff9f398bd0ba55d43e667a95"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "5254c8deb5eb1bf52ad327256c40b201955b6b8ab849f794839931c974a10543"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
-git-tree-sha1 = "ce2489d2867249832496ca54c51478c72a69aace"
+git-tree-sha1 = "56a404996b31b0d87dd6162067fc6c85ca93fa82"
 os = "freebsd"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "c1021a6a0a7f73c2d46ad7a737ec7c5589989991751ff842bde746f576e2596e"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5f69992c0054628a4ad288ecac0ffe4163dabc79b2f0128021ca16c60126e4e2"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-unknown-freebsd.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "13c3e299511503779152d64c0e3ada05ec7a2e1e"
+git-tree-sha1 = "edc0373687e1d97a014f02388efb6aabaa6e174e"
 os = "windows"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "ed7bb34ad757b2b34025b8aa041c92da09ee8351a516d1bdf01c3ea5b346401e"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "554ae90f165f70a180a920f241915020d6c66bf0d0301aaf5c1eb5191c47cb20"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[SPIRV_LLVM_Translator]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1d014c77e4b8e33954f8e600a9f323063881cc58"
+git-tree-sha1 = "35efa43e85c8ec91e92c08710a12e7247560c781"
 os = "windows"
 
     [[SPIRV_LLVM_Translator.download]]
-    sha256 = "cb6eb3d4d0b1a06f3642f73974f4df6727ae3f94271de075beec7c63389ca806"
-    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+2/SPIRV_LLVM_Translator.v11.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e0a4ed5af67a37d908d8653be475d2a5e0bb5f892b580a1865ac3c9d813d95e4"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v12.0.0+0/SPIRV_LLVM_Translator.v12.0.0.x86_64-w64-mingw32-cxx11.tar.gz"

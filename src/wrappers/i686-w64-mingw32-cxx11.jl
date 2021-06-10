@@ -2,13 +2,13 @@
 export libLLVMSPIRV, llvm_spirv
 
 JLLWrappers.@generate_wrapper_header("SPIRV_LLVM_Translator")
-JLLWrappers.@declare_library_product(libLLVMSPIRV, "LLVMSPIRVLib.dll")
+JLLWrappers.@declare_library_product(libLLVMSPIRV, "libLLVMSPIRVLib.dll")
 JLLWrappers.@declare_executable_product(llvm_spirv)
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libLLVMSPIRV,
-        "bin\\LLVMSPIRVLib.dll",
+        "bin\\libLLVMSPIRVLib.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
