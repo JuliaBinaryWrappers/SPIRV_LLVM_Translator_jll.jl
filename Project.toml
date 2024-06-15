@@ -1,6 +1,6 @@
 name = "SPIRV_LLVM_Translator_jll"
 uuid = "4a5d46fc-d8cf-5151-a261-86b458210efb"
-version = "16.0.0+0"
+version = "17.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
