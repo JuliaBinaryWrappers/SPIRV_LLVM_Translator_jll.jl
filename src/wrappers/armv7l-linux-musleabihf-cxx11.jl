@@ -2,7 +2,7 @@
 export libLLVMSPIRV, llvm_spirv
 
 JLLWrappers.@generate_wrapper_header("SPIRV_LLVM_Translator")
-JLLWrappers.@declare_library_product(libLLVMSPIRV, "libLLVMSPIRVLib.so.18.1jl")
+JLLWrappers.@declare_library_product(libLLVMSPIRV, "libLLVMSPIRVLib.so.19.1jl")
 JLLWrappers.@declare_executable_product(llvm_spirv)
 function __init__()
     JLLWrappers.@generate_init_header()
